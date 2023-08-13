@@ -1231,6 +1231,10 @@ footer .footer__social a:hover {
     padding-top: .8rem;
   }
 
+  .button-group {
+    justify-content: space-between
+  }
+
   .footer__container {
     grid-template-columns: repeat(3, 1fr);
     padding-bottom: 1ch
