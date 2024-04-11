@@ -319,7 +319,7 @@ img {
 }
 
 .home__blob-img {
-  width: 200px;
+  width: 228px;
 }
 
 .home__data {
@@ -567,13 +567,13 @@ img {
 }
 
 .skills__GCP {
-  width: 40%;
-}
-.skills__AWS {
   width: 10%;
 }
+.skills__AWS {
+  width: 50%;
+}
 .skills__Azure {
-  width: 80%;
+  width: 60%;
 }
 .skills__Hadoop {
   width: 40%;
@@ -1375,6 +1375,8 @@ footer .footer__social a:hover {
 .skills__container{
   grid-template-columns:2fr 2fr;
 }
+
+
 .footer__subtitle{
   color: var(--first-color-alt);
 }
